@@ -1,0 +1,37 @@
+.nome{
+background-color: rgb(69, 170, 209);
+font-weight: bold;
+ 
+}
+.italic[type="i"]{
+    font-style: italic;
+}
+.endereço{
+    background-color: rgb(69, 170, 209);
+    font-weight: bold;
+}
+.cidade{
+    background-color: rgb(69, 170, 209);
+    font-weight: bold;
+}
+.uf{
+    background-color: rgb(69, 170, 209);
+    font-weight: bold;
+}
+ .rg{
+    background-color: rgb(69, 170, 209);
+    font-weight: bold;
+}
+.cpf{
+    background-color: rgb(69, 170, 209);
+    font-weight: bold;
+}
+input[type=text]:focus{
+
+   background-color: white;
+}
+.email{
+    background-color: rgb(69, 170, 209);
+    font-weight: bold;
+     
+    }
